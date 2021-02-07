@@ -1,4 +1,4 @@
-package com.onjug;
+package com.onjug.beginner;
 
 public class Main {
 
